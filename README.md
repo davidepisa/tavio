@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Funzionalità attuali
-- Gestione automatica delle prenotazioni (via Typebot)
-- Raccolta dati su orari, numero di clienti, cancellazioni
+- Gestione automatica delle prenotazioni
+- Raccolta dati su orari, numero di clienti
 - Mini report settimanale con insight personalizzati
 
 ---
